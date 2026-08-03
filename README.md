@@ -239,6 +239,5 @@ A：可以。建议：
 
 ---
 
-## 📄 许可
-
-内部工具，自由使用与修改。
+## 请作者喝咖啡
+<img width="688" height="936" alt="image" src="https://github.com/user-attachments/assets/2a853865-db42-47bc-8c54-c5752ab440c6" />
